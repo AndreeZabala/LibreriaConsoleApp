@@ -19,7 +19,7 @@ LibreriaConsolaApp
  
  
 ##Autor 
-/Levi Salazar |Fundacion Kinal/
+/Andree Zabala |Fundacion Kinal/
  
  
 .md mark down - formato de los artefactos que genera los LIM(IA)
